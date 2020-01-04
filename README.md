@@ -9,6 +9,7 @@ blog系统，后台管理系统，前台展示
 
 ## 错误
 记得修改自己的maven配置，不然会报错
+![](https://rong-1257752702.cos.ap-chengdu.myqcloud.com/%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/1.png)
 
 
 ## 我觉得的难点
