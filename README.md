@@ -28,6 +28,7 @@ blog系统，后台管理系统，前台展示
 1. idea
 2. mysql 5.7
 3. springboot2.2.2
+4. shiro1.4.1
 
 技术栈
 1. mybatis
@@ -35,3 +36,4 @@ blog系统，后台管理系统，前台展示
 3. springboot
 4. thymeleaf模板引擎
 5. Semantic Ui
+6. shiro
