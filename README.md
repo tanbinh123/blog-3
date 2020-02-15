@@ -4,7 +4,10 @@
 
 # 错误
 1.一些小伙伴在用我的代码时跑不起来，有些pojo类中的基础方法爆红，是因为没有安装lombok插件。。这是我的偷懒，不好意思，安装上应该就不会爆红了
+
 2.解决了一个shiro的bug，在登录时，会跳到一个错误的页面，还有很多bug，希望大家指出。
+
+
 3.记得修改自己的maven home directory配置，不然会报错
 ![](https://rong-1257752702.cos.ap-chengdu.myqcloud.com/%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/1.png)
 
@@ -48,3 +51,4 @@ blog系统，后台管理系统，前台展示
 4. thymeleaf模板引擎
 5. Semantic Ui
 6. shiro
+7. docker
