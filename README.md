@@ -1,3 +1,6 @@
+## 2020/2/19
+写了一篇，从0开始部署一个网站，以我的这个项目为例，版本1.1的target文件下有我打好的jar包，博客地址:https://blog.csdn.net/hangao233/article/details/104395693
+
 ## 2020/2/17
 最外面的.sql文件是配合第一个版本的blog，第一代版本安全是用的拦截器做的，blog1.0是用的shiro做的，后面的版本都是根据shiro来的。blog1.0里有shiro版的.sql文件。
 
